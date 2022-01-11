@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212997329756",
+    "project_id": "gitauthenticate-11c50",
+    "storage_bucket": "gitauthenticate-11c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212997329756:android:44f3f757b531e6e9982799",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212997329756-5hom2ut47upmonmh65c28maql05if8cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "ffcf46a013ff7c3b39e4f08233def090485f3cda"
+          }
+        },
+        {
+          "client_id": "212997329756-9ij3rpptmnkm8t44g6hsca7jak64395f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxhSn5cPep1F6KP4cJ4xynPBsIMVckvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212997329756-9ij3rpptmnkm8t44g6hsca7jak64395f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
